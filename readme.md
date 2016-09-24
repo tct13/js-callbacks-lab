@@ -1,13 +1,3 @@
----
-title: Callbacks Lab
-type: lab
-duration: "1:25"
-creator:
-    name: Jesse Shawl
-    city: DC
-competencies: Programming
----
-
 # Callbacks Lab
 
 ## Introduction
